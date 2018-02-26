@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #BAA7E3;
 }
 
 .text-primary {
@@ -70,8 +70,8 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #BAA7E3 !important;
+  border-color: #BAA7E3 !important;
   color: white;
 }
 
@@ -118,7 +118,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #BAA7E3;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -591,14 +591,14 @@ header.masthead .intro-text .intro-heading {
   margin-top: 0;
 }
 
-#blog {
-	background-image: url(../img/blog-bg1.jpg);
+#interests {
+	background-image: url(../img/interests-bg1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 }
 
-#blog .section-heading {
+#interests .section-heading {
 	text-align: left;
 	padding-top: 60px;
 	padding-bottom: 60px;
@@ -609,7 +609,7 @@ header.masthead .intro-text .intro-heading {
 	overflow: hidden!important;
 }
 
-#blog .section-heading h4 {
+#interests .section-heading h4 {
 	margin-top: 0px;
 	font-size: 20px;
 	text-transform: uppercase;
@@ -618,14 +618,14 @@ header.masthead .intro-text .intro-heading {
 	letter-spacing: 1px;
 }
 
-#blog .section-heading .line-dec {
+#interests .section-heading .line-dec {
 	width: 270px;
 	height: 1px;
 	background-color: rgba(250, 250, 250, 0.5);
 	margin: 20px 0 15px 0;
 }
 
-#blog .section-heading p {
+#interests .section-heading p {
 	color: #fff;
 	padding-right: 70px;
 }
@@ -660,11 +660,11 @@ header.masthead .intro-text .intro-heading {
 }
 
 .tabs a:hover {
-  color: #f7c552;
+  color: #BAA7E3;
 }
 
 .tabs .active {
-  color: #f7c552;
+  color: #BAA7E3;
 }
 #first-tab-group {
 	margin-top: 30px;
