@@ -504,7 +504,13 @@ header.masthead .intro-text .intro-heading {
 
 .timeline .timeline-heading h4.subheading {
   text-transform: none;
+  color: #7DDCE3;
 }
+.timeline .timeline-heading h5.subheading {
+  text-transform: none;
+  color: #EFA5BE;
+}
+
 
 .timeline .timeline-body > ul,
 .timeline .timeline-body > p {
@@ -710,10 +716,10 @@ section#first-tab-group img{
   text-align: left;
 }
 .tabgroup .text-content h4 {
-	font-size: 17px;
+	font-size: 22px;
 	font-weight: 500;
 	letter-spacing: 0.5px;
-	color: #121212;
+	color: #7DDCE3;
 	margin-top: 0px;
 	margin-bottom: 5px;
 }
@@ -728,6 +734,7 @@ section#first-tab-group img{
 }
 .tabgroup .text-content p {
 	margin-top: 10px;
+  font-size: 20px;
 }
 
 .clearfix:after {
